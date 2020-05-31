@@ -109,6 +109,10 @@
   width: 80%;
 }
 
+#free-text{
+  max-width: 20rem;
+}
+
 .contact {
   float: none;
   width: 90%;
